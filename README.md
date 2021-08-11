@@ -1,1 +1,0 @@
-# artem-kochetkov-94.github.io
