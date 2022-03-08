@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3ca6fc13.css",
+    "main.js": "/static/js/main.1f50cc75.js",
+    "static/media/tetu_reveal_5v.mp4": "/static/media/tetu_reveal_5v.de0de64da13c151a6384.mp4",
+    "static/media/bg.jpg": "/static/media/bg.cbced68c073efb978941.jpg",
+    "static/media/employee-1.svg": "/static/media/employee-1.ecec31fa09bf03bd28d1b62118e25f15.svg",
+    "static/media/placeholder.jpg": "/static/media/placeholder.68875a57e0976496f1d3.jpg",
+    "static/media/employee-2.svg": "/static/media/employee-2.c21f9518ea4df680f004fb45d0f90002.svg",
+    "static/media/employee-3.svg": "/static/media/employee-3.60ad1bff3ada6fd66689619cb9796af8.svg",
+    "static/media/employee-4.svg": "/static/media/employee-4.37b177393468bcac4abaf7ae4cebf193.svg",
+    "static/media/Autobus-Bold.ttf": "/static/media/Autobus-Bold.fbfb7b83a308967036aa.ttf",
+    "static/media/employee-5.svg": "/static/media/employee-5.02c8b49a75bdd3b9277a974516d35efb.svg",
+    "static/media/Trap-Medium.ttf": "/static/media/Trap-Medium.aaedba24b48f25f9fda4.ttf",
+    "index.html": "/index.html",
+    "static/media/arrow-bottom.svg": "/static/media/arrow-bottom.2e35f5bfb1fac515ba4f84523b626ebe.svg",
+    "static/media/play.svg": "/static/media/play.5d4c9ca89e6843fbd54e1db6b5a06eec.svg",
+    "main.3ca6fc13.css.map": "/static/css/main.3ca6fc13.css.map",
+    "main.1f50cc75.js.map": "/static/js/main.1f50cc75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ca6fc13.css",
+    "static/js/main.1f50cc75.js"
+  ]
+}
