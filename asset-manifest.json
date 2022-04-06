@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.15d8b65a.css",
+    "main.css": "/static/css/main.0105a42e.css",
     "main.js": "/static/js/main.d6e1409b.js",
     "static/media/movie.mp4": "/static/media/movie.fc47a47def55eadd3caa.mp4",
     "static/media/dex.jpg": "/static/media/dex.c220469571f4643ef5e8.jpg",
@@ -24,6 +24,7 @@
     "static/media/Autobus-Bold.ttf": "/static/media/Autobus-Bold.fbfb7b83a308967036aa.ttf",
     "static/media/reptile.svg": "/static/media/reptile.7d384679320495b70e6bf4202579662f.svg",
     "static/media/iam.svg": "/static/media/iam.da038bede8f8e90d130f647d71b0251c.svg",
+    "static/media/second-stage.png": "/static/media/second-stage.0105d366d8d8a419400e.png",
     "static/media/Trap-Medium.ttf": "/static/media/Trap-Medium.aaedba24b48f25f9fda4.ttf",
     "static/media/oleg-bg.svg": "/static/media/oleg-bg.ee5288fa411a20f43a805e882614d1c7.svg",
     "static/media/water-bg.svg": "/static/media/water-bg.972e7a75fcf6574143bbe0da01bdec30.svg",
@@ -41,11 +42,11 @@
     "static/media/linkedin.svg": "/static/media/linkedin.deca492598f7670cf9fb8c3f28de2562.svg",
     "static/media/twitter.svg": "/static/media/twitter.657d10fc018141db5a4f7643c6dd0c35.svg",
     "static/media/facebook.svg": "/static/media/facebook.65086a50432c52096869750c59396e48.svg",
-    "main.15d8b65a.css.map": "/static/css/main.15d8b65a.css.map",
+    "main.0105a42e.css.map": "/static/css/main.0105a42e.css.map",
     "main.d6e1409b.js.map": "/static/js/main.d6e1409b.js.map"
   },
   "entrypoints": [
-    "static/css/main.15d8b65a.css",
+    "static/css/main.0105a42e.css",
     "static/js/main.d6e1409b.js"
   ]
 }
