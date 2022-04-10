@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.73c0666c.css",
+    "main.css": "/static/css/main.d67e915c.css",
     "main.js": "/static/js/main.dc61a937.js",
     "static/media/movie2.mp4": "/static/media/movie2.ee46a625c60fee87aa79.mp4",
     "static/media/dex.jpg": "/static/media/dex.c220469571f4643ef5e8.jpg",
@@ -12,7 +12,7 @@
     "static/media/bg-2.jpg": "/static/media/bg-2.23b674778fbc14286f06.jpg",
     "static/media/bg-1.jpg": "/static/media/bg-1.1b52199e1cdc35f27178.jpg",
     "static/media/bg-mobile.jpg": "/static/media/bg-mobile.2f786b15fbe52b8aa1de.jpg",
-    "static/media/bg.jpg": "/static/media/bg.64b15db4cff7194904fa.jpg",
+    "static/media/bg.jpg": "/static/media/bg.950357d284f82e416e8b.jpg",
     "static/media/water.svg": "/static/media/water.39b1e612a9f9cb6fbe19e459b000e509.svg",
     "static/media/dr.svg": "/static/media/dr.7a0648f44aa7927b334a924f9468b679.svg",
     "static/media/oleg.svg": "/static/media/oleg.2386e737cc937ad79a42f8b3395e033f.svg",
@@ -44,11 +44,11 @@
     "index.html": "/index.html",
     "static/media/linkedin.svg": "/static/media/linkedin.deca492598f7670cf9fb8c3f28de2562.svg",
     "static/media/twitter.svg": "/static/media/twitter.657d10fc018141db5a4f7643c6dd0c35.svg",
-    "main.73c0666c.css.map": "/static/css/main.73c0666c.css.map",
+    "main.d67e915c.css.map": "/static/css/main.d67e915c.css.map",
     "main.dc61a937.js.map": "/static/js/main.dc61a937.js.map"
   },
   "entrypoints": [
-    "static/css/main.73c0666c.css",
+    "static/css/main.d67e915c.css",
     "static/js/main.dc61a937.js"
   ]
 }
