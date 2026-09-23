@@ -1,0 +1,3 @@
+
+    export type RemoteKeys = 'REMOTE_ALIAS_IDENTIFIER/Observer' | 'REMOTE_ALIAS_IDENTIFIER/ChainOfResponsibility' | 'REMOTE_ALIAS_IDENTIFIER/Command' | 'REMOTE_ALIAS_IDENTIFIER/Iterator';
+    type PackageType<T> = T extends 'REMOTE_ALIAS_IDENTIFIER/Iterator' ? typeof import('REMOTE_ALIAS_IDENTIFIER/Iterator') :T extends 'REMOTE_ALIAS_IDENTIFIER/Command' ? typeof import('REMOTE_ALIAS_IDENTIFIER/Command') :T extends 'REMOTE_ALIAS_IDENTIFIER/ChainOfResponsibility' ? typeof import('REMOTE_ALIAS_IDENTIFIER/ChainOfResponsibility') :T extends 'REMOTE_ALIAS_IDENTIFIER/Observer' ? typeof import('REMOTE_ALIAS_IDENTIFIER/Observer') :any;
